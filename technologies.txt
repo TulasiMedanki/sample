@@ -2,4 +2,12 @@
 
 welcome to Sample
 
-Here I will list out some of the technologies which are trend
+Here I will list out some of the technologies which are trend as follows
+
+c
+java
+python
+html 
+css
+javascript
+angular
